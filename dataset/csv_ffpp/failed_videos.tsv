@@ -1,0 +1,3 @@
+video_id	reason	saved_frames	frame_probs
+deepfakes__638_640	insufficient_confident_frames	2	0.785,0.910,0.760,0.000,0.770,0.797,0.825,0.000
+deepfakes__894_848	insufficient_confident_frames	5	0.999,1.000,1.000,0.708,0.823,0.000,0.998,0.950
